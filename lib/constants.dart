@@ -11,4 +11,9 @@ final theme = ThemeData(
     seedColor: const Color.fromARGB(255, 131, 57, 0),
   ),
   textTheme: GoogleFonts.latoTextTheme(),
-);
+); 
+
+
+// final them1 = Theme.of(context).textTheme.bodyLarge!.copyWith(
+//   color: Theme.of(context).colorScheme.onSurface,
+// );
